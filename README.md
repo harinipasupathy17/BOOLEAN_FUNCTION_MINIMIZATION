@@ -1,4 +1,7 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+### Harini P
+### 212224230082
+
+#Exp 2: BOOLEAN FUNCTION MINIMIZATION
 
 **AIM:**
 
@@ -33,18 +36,26 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
+![Screenshot 2025-03-20 111954](https://github.com/user-attachments/assets/13ecf7d5-c891-4bde-9b21-0d5f22df6dc9)
 
 
-**RTL realization**
 
-**Output:**
+**Truth Table**
+
+![Screenshot 2025-03-20 114859](https://github.com/user-attachments/assets/4bc622b2-006b-4954-8e33-22dd4e89af98)
+
+![Screenshot 2025-03-20 114914](https://github.com/user-attachments/assets/4f68d17a-7834-4d83-b084-7177994c9623)
+
 
 **RTL**
 
+![Screenshot 2025-03-20 112636](https://github.com/user-attachments/assets/7ee57d7e-cde7-46cf-bcc6-9cd16cd91566)
+
+
 **Timing Diagram**
+
+![Screenshot 2025-03-20 114300](https://github.com/user-attachments/assets/956a5632-76b4-40c3-90ca-a50c2d2e8e6e)
+
 
 **Result:**
 
